@@ -2,8 +2,6 @@
 
 <p align="left"> <a href="https://twitter.com/_josuempia" target="blank"><img src="https://img.shields.io/twitter/follow/_josuempia?logo=twitter&style=for-the-badge" alt="_josuempia" /></a> </p>
 
-- 🔭 I’m currently working on [Scroll House](https://twitter.com/Scroll_House)
-
 - 👯 I’m also exploring more use cases on [Betterticket](https://twitter.com/betterticket)
 
 - 🌱 I’m currently learning [Chainlink CCIP, Keepers and Functions](https://chain.link/)
